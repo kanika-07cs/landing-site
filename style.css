@@ -43,14 +43,13 @@ a:hover{
     color: black;
 }
 .main h2{
-    font-size: 40px;
+    font-size: 80px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 2px;
 }
 .main p{
-    max-width: 250px;
     background-image: none;
-    font-size: 15px;
+    font-size: 30px;
     padding: 10px;
 }
 .fa-solid{
@@ -58,27 +57,22 @@ a:hover{
     float:right;
     padding: 0;
 }
-.con label{
-    background-image: none;
-    background-color: aliceblue;
-    color: black;
-}
-.con input{
-    background-image: none;
-    margin: 3px;
-    background-color: aliceblue;
-    color: black;
-}
 .butt{
     border: 3px dashed;
     font-size: 30px;
-    margin-top: 1px;
+    padding: 5px;
+    margin-top: 10px;
     border-radius: 5px;
     background-image: none;
     background-color: darkolivegreen;
 }
 .butt:hover{
     background-color: darkmagenta;
+}
+.in7{
+    margin: 30px;
+    float: inline-end;
+    font-size: 20px;
 }
 .fa-brands{
     padding: 5px;

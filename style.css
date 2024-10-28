@@ -80,43 +80,6 @@ a:hover{
 .butt:hover{
     background-color: darkmagenta;
 }
-.in6{
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
-    gap: 2px;
-}
-.in3 img{
-    background-color: aliceblue;
-    width: 100%;
-}
-.in3 img:hover{
-    height: 300px;
-}
-.in4 p{
-    text-align: justify;
-    margin: 10px;
-    background-image: none;
-    background-color: aliceblue;
-    color: black;
-    padding: 4px;
-}
-.in4 p:hover{
-    font-size: 21px;
-}
-.in4 p b{
-    background-image: none;
-    color: black;
-}
-.in5{
-    border: 3px dashed transparent;
-    margin-top: 1px;
-    border-radius: 5px;
-    background-image: none;
-    background-color: darkolivegreen;
-}
-.in5:hover{
-    background-color: darkmagenta;
-}
 .fa-brands{
     padding: 5px;
     font-size: 25px;

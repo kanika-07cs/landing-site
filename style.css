@@ -12,6 +12,7 @@
     background-image: none;
     padding: 8px;
     margin-bottom: 10px;
+    text-decoration: none;
 }
 a:hover{
     color: blue;

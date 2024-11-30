@@ -71,11 +71,11 @@ a:hover{
 }
 .in7{
     margin: 30px;
-    float: inline-end;
+    float: left;
     font-size: 20px;
 }
 .fa-brands{
-    padding: 5px;
+    background-image: none;
     font-size: 25px;
 }
 .fa-brands:hover{

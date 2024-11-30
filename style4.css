@@ -2,9 +2,16 @@
     background-image: url("Colorful-Background.png");
     font-size: 30px;
     color: aliceblue;
+    text-align: center;
+}
+p{
+    background-image: none;
 }
 .sec{
     display: grid;
-    grid-template-columns: repeat(4,1fr);
-    gap: 1px;
+    grid-template-columns: repeat(4,0.1fr);
+}
+.sec img:hover{
+    height: 300px;
+    width: 300px;
 }

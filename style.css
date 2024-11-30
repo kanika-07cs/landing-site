@@ -42,26 +42,24 @@ a:hover{
     float: right;
     color: black;
 }
+.main{
+    background-image: none;
+}
 .main h2{
     font-size: 80px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
     margin-bottom: 2px;
+    background-image: none;
 }
 .main p{
-    background-image: none;
     font-size: 30px;
     padding: 10px;
-}
-.fa-solid{
-    font-size: 45px;
-    float:right;
-    padding: 0;
+    background-image: none;
 }
 .butt{
-    border-radius: 3px;
     font-size: 30px;
     padding: 5px;
-    margin: 5px;
     border-radius: 5px;
     background-image: none;
     background-color: darkolivegreen;

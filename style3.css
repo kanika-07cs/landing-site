@@ -1,37 +1,10 @@
-*{
-    background-image: url("blue-background-and-wallpaper.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-h2{
-    font-size: 25px;
-    color: darkviolet;
-}
-.start{
-    border: 5px solid black;
-    border-radius: 10px;
-    font-size: 20px;
-}
-.con label{
-    padding: 5px;
-    margin: 10px;
-    background-image: none;
-    background-color: aliceblue;
-    color: black;
-}
-.con input{
-    padding: 5px;
-    margin: 15px;
-    background-image: none;
-    margin: 3px;
-    background-color: aliceblue;
-    color: black;
-}
+
 .query{
     padding: 10px;
     margin: 50px;
-    float: inline-end;
+    float: right;
     border: 5px solid black;
+    background-image: none;
     border-radius: 10px;
     font-size: 20px;
 }

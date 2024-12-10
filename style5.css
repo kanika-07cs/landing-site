@@ -33,10 +33,18 @@ h2{
 }
 .con input{
     padding: 5px;
-    margin: 15px;
+    margin: 5px;
     background-image: none;
-    margin: 3px;
     background-color: burlywood;
+}
+#name{
+    margin-left: 100px;
+}
+#fromdate{
+    margin-left: 50px;
+}
+#todate{
+    margin-left: 80px;
 }
 button {
     padding: 10px;

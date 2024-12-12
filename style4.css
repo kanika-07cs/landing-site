@@ -6,10 +6,29 @@
 }
 p{
     background-image: none;
+    font-size: 40px;
+    font-weight: bold;
 }
 .sec{
     display: grid;
-    grid-template-columns: repeat(4,0.1fr);
+    grid-template-columns: repeat(4,1fr);
+}
+.sec figure{
+    border: 3px solid black;
+    border-radius: 20px;
+    box-shadow: 3px 3px 2px black;
+    padding: 15px;
+    background-image: none;
+    background-color: rgb(174, 212, 245);
+}
+.sec img{
+    border-style: none;
+    border-radius: 20px;
+    box-shadow: 3px 3px 2px black;
+}
+.sec figcaption{
+    background-image: none;
+    background-color: rgb(174, 212, 245);
 }
 .sec img:hover{
     height: 300px;

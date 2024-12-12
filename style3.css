@@ -2,16 +2,16 @@
     background-image: url("blue-background-and-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    font-size: 30px;
+    font-size: 35px;
     color: azure;
 }
 .query{
     padding: 10px;
     margin: 50px;
-    float: left;
     border: 5px solid black;
     background-image: linear-gradient(rgb(80, 205, 246), rgb(114, 238, 114));
     border-radius: 10px;
+    width: 25%;
 }
 .query h2{
     background-image: none;
@@ -19,16 +19,8 @@
 .query p{
     background-image: none;
 }
-.in{
-    float: inline-end;
+.query a{
     background-image: none;
-    margin: 250px;
-    font-size: 45px;
-    font-weight: bold;
-}
-.in p{
-    background-image: none;
-    color: deepskyblue;
 }
 .fa-brands{
     background-image: none;
